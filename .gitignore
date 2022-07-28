@@ -1,0 +1,11 @@
+.*
+**/__pycache__/
+!.gitignore
+*.out
+logs*/
+results/
+Subtype-GAN/
+data/
+.Rproj.user
+*.Rproj
+Depracated/
